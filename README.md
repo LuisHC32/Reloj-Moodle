@@ -14,9 +14,6 @@ Este plugin de Moodle añade un **reloj visible** y, lo más importante, **rastr
 
 | Versión de Moodle | Estado de Compatibilidad                                   | Notas                      | Final |
 |-------------------|------------------------------------------------------------|----------------------------|-------|
-| 3.9.x             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
-| 3.10.x            | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
-| 3.11.x            | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
 | 4.0.x             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
 | 4.1.x             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
 | 4.2.x             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
@@ -26,6 +23,7 @@ Este plugin de Moodle añade un **reloj visible** y, lo más importante, **rastr
 | 5.0.0             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
 
 **Nota:** Esta tabla se actualizará a medida que se realicen pruebas en nuevas versiones de Moodle.
+
 
 
 
