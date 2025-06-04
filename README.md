@@ -14,13 +14,14 @@ Este plugin de Moodle añade un **reloj visible** y, lo más importante, **rastr
 
 | Versión de Moodle | Estado de Compatibilidad                                   | Notas                      | Final |
 |-------------------|------------------------------------------------------------|----------------------------|-------|
-| 4.0.x             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
-| 4.1.x             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
-| 4.2.x             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
-| 4.3.x             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
-| 4.4.x             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
-| 4.5.x             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | ✅   |
-| 5.0.0             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
+| 4.0.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
+| 4.1.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
+| 4.2.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
+| 4.3.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
+| 4.4.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
+| 4.5.x             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | 🟩   |
+| 5.0.0             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | 🟩   |
+
 
 
 
