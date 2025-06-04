@@ -22,7 +22,6 @@ Este plugin de Moodle añade un **reloj visible** y, lo más importante, **rastr
 | 4.5.x             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | ✅   |
 | 5.0.0             | <span style="color:orange;">Verificando</span>             | Por verificar              | 🟨   |
 
-**Nota:** Esta tabla se actualizará a medida que se realicen pruebas en nuevas versiones de Moodle.
 
 
 
